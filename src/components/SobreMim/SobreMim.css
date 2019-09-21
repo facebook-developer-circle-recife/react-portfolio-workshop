@@ -1,0 +1,14 @@
+.sobre-mim-container {
+  margin: 20px;
+  height: 100vh;
+}
+
+.foto-container {
+  display: flex;
+}
+
+.foto-perfil {
+  height: 300px;
+  border: 3px solid black;
+  border-radius: 150px;
+}
