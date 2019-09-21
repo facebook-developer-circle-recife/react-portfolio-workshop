@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/react-portfolio-workshop/static/css/main.3bb9bdd3.chunk.css",
+    "main.js": "/react-portfolio-workshop/static/js/main.3f90e1bb.chunk.js",
+    "main.js.map": "/react-portfolio-workshop/static/js/main.3f90e1bb.chunk.js.map",
+    "runtime-main.js": "/react-portfolio-workshop/static/js/runtime-main.21db6aff.js",
+    "runtime-main.js.map": "/react-portfolio-workshop/static/js/runtime-main.21db6aff.js.map",
+    "static/js/2.8d6ee4ec.chunk.js": "/react-portfolio-workshop/static/js/2.8d6ee4ec.chunk.js",
+    "static/js/2.8d6ee4ec.chunk.js.map": "/react-portfolio-workshop/static/js/2.8d6ee4ec.chunk.js.map",
+    "index.html": "/react-portfolio-workshop/index.html",
+    "precache-manifest.92e83bc2d26dffe252f4be65af4a9f13.js": "/react-portfolio-workshop/precache-manifest.92e83bc2d26dffe252f4be65af4a9f13.js",
+    "service-worker.js": "/react-portfolio-workshop/service-worker.js",
+    "static/css/main.3bb9bdd3.chunk.css.map": "/react-portfolio-workshop/static/css/main.3bb9bdd3.chunk.css.map",
+    "static/media/eu.png": "/react-portfolio-workshop/static/media/eu.a170675d.png"
+  }
+}
